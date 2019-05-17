@@ -4,7 +4,7 @@
 
 ### 登入畫面
 
-![Image of Login Page](https://kimieno.github.io/android.pitt/images/IMG_5101.jpg)
+![Image of Login Page](https://kimieno.github.io/ios.pitt/images/login_page.jpg)
 
 
 ## Welcome to GitHub Pages
