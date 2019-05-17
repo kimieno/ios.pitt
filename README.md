@@ -1,8 +1,8 @@
-## 操作手冊
+# 操作手冊
 [1. 登入畫面](#登入畫面)
 
 
-### 登入畫面
+## 登入畫面
 
 ![Image of Login Page](https://kimieno.github.io/ios.pitt/images/login_page.png)
 
