@@ -3,8 +3,6 @@
 
 ## 馬上下載！
 [PiTT on App Store](https://itunes.apple.com/app/id1345822611)
-
-## 馬上加入測試計畫！
 [PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
 
 ## 登入畫面
