@@ -63,7 +63,7 @@
 ![Image of Page View Page](https://kimieno.github.io/ios.pitt/images/page_view.png)
 
 1. ### 首頁
-點擊項目可設定為首頁，登入後將首先顯示此分頁
+點擊項目可設定為首頁，項目左方將有突顯標記，登入後將首先顯示此分頁
 
 2. ### 編輯
 點擊後可開始編輯排序與分頁開關
