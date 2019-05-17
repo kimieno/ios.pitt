@@ -1,10 +1,9 @@
 # 馬上下載！
-[PiTT on App Store](https://itunes.apple.com/app/id1345822611)
-
+[PiTT on App Store](https://itunes.apple.com/app/id1345822611)  
 [PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
 
 # 操作手冊
-[1. 登入畫面](#登入畫面)
+[1. 登入畫面](#登入畫面)  
 [1. 登入畫面](#登入畫面)
 
 ## 登入畫面
