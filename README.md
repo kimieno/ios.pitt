@@ -6,7 +6,7 @@
 
 ![Image of Login Page](https://kimieno.github.io/ios.pitt/images/login_page.png)
 
-1. ###### 關於 
+1. #### 關於 
 點擊後進入關於頁面，可查看 PiTT 更新紀錄等資訊
 
 2. 無法連線疑難排解
