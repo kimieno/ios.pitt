@@ -8,6 +8,7 @@
 [主畫面](#主畫面)  
 [工具列](#工具列)  
 [看板列表](#看板列表)
+[看板選項](#看板選項)
 
 ## 登入畫面
 
@@ -139,3 +140,9 @@
 
 11. ### 主選單
 點擊後開啟主選單
+
+## 看板選項
+
+長按看板項目後顯示的看板操作項目
+
+![Image of Boards_Options Page](https://kimieno.github.io/ios.pitt/images/board_options.png)
