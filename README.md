@@ -1,4 +1,5 @@
 # 馬上下載！
+<a href="https://itunes.apple.com/app/id1345822611"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png"></a>
 [PiTT on App Store](https://itunes.apple.com/app/id1345822611) | [PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
 
 # 操作手冊
