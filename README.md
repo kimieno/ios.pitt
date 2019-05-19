@@ -148,7 +148,8 @@
 ![Image of Boards_Options Page](https://kimieno.github.io/ios.pitt/images/board_options.png)
 
 1. ### 新增/移除最愛
-已加入最愛僅顯示移除選項，反之亦然
+將看板加入/移除最愛看板，已加入最愛僅顯示移除選項，反之亦然  
+若在子目錄顯示的情況下加入/移除最愛，則僅會異動此目錄內的看板
 
 2. ### 全部已讀
 將看板內所有文章設為已讀
