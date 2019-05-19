@@ -1,4 +1,4 @@
-<div align="center"><a href="https://itunes.apple.com/app/id1345822611"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png" width="150" height="55" ></a></div>
+<div align="center"><a href="https://itunes.apple.com/app/id1345822611" target="_blank"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png" width="150" height="55" ></a></div>
 <div align="center">或是<a href="https://testflight.apple.com/join/TDrhSSs0">加入測試計畫</a></div>
 
 # 操作手冊
