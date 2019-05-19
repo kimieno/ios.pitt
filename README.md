@@ -1,5 +1,4 @@
-<a href="https://itunes.apple.com/app/id1345822611"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png" width="150" height="55" ></a>  
-[PiTT on TestFlight](https://testflight.apple.com/join/TDrhSSs0)
+<a href="https://itunes.apple.com/app/id1345822611"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png" width="150" height="55" ></a>  或是[加入測試計畫](https://testflight.apple.com/join/TDrhSSs0)
 
 # 操作手冊
 [登入畫面](#登入畫面)  
