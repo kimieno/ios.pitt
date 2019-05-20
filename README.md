@@ -166,7 +166,7 @@
 
 ## 最愛看板排序
 
-![Image of Favorite_Sorting Page 1](https://kimieno.github.io/ios.pitt/images/favorite_sorting_1.png)
+![Image of Favorite_Sorting Page 1](https://kimieno.github.io/ios.pitt/images/favorite_sorting_1.png)  
 ![Image of Favorite_Sorting Page 2](https://kimieno.github.io/ios.pitt/images/favorite_sorting_2.png)
 
 1. ### 自訂看板位置
