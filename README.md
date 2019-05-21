@@ -13,7 +13,9 @@
 [信件選項](#信件選項)  
 [話題功能](#話題功能)  
 [最新消息/延燒話題](#最新消息/延燒話題)  
-[延燒話題選項](#延燒話題選項)
+[延燒話題選項](#延燒話題選項)  
+[延燒話題設定](#延燒話題設定)  
+[編輯隱藏看板](#編輯隱藏看板)  
 
 # FAQ
 [PTT 與 PiTT 的關係](#PTT 與 PiTT 的關係)
@@ -250,7 +252,7 @@
 
 ## 話題功能
 
-![Image of Topcis](https://kimieno.github.io/ios.pitt/images/topics.png)  
+![Image of Topics](https://kimieno.github.io/ios.pitt/images/topics.png)  
 
 PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度的話題  
 
@@ -260,7 +262,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最新消息/延燒話題
 
-![Image of New_and Hot_Topcis](https://kimieno.github.io/ios.pitt/images/new_n_hot_topic.png)
+![Image of New_and Hot_Topics](https://kimieno.github.io/ios.pitt/images/new_n_hot_topic.png)
 
 1. ### 文章標題
 此文章的標題
@@ -276,7 +278,9 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 延燒話題選項
 
-![Image of Topci Options](https://kimieno.github.io/ios.pitt/images/topic_options.png) 
+與最新消息共用相同選項
+
+![Image of Topic Options](https://kimieno.github.io/ios.pitt/images/topic_options.png) 
 
 1. ### 暫時隱藏此話題
 點擊後將暫時隱藏話題，直到下次重新啟動 App 為止
@@ -306,3 +310,37 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 9. ### 檢舉文章
 將違規文章通報給板主，將會自動進入發信頁面並自動帶入檢舉表單與檢舉對象，若文章所在看板沒有板主將僅顯示至 Violation 看板檢舉提示。
+
+## 延燒話題設定
+
+![Image of Topic Settings Options](https://kimieno.github.io/ios.pitt/images/topic_settings.png) 
+
+1. ### 切換排序
+共有兩種排序方式，依話題熱門度排序以及依話題新鮮度排序
+
+2 ### 編輯隱藏看板
+點擊後進入編輯隱藏看板頁面，可新增隱藏看板或刪除隱藏看板
+
+## 編輯隱藏看板
+
+與最新消息共用設定
+
+![Image of Hidden Boards_Page](https://kimieno.github.io/ios.pitt/images/hidden_boards.png) 
+
+1. ### 輸入看板
+可一次輸入多個看板同時新增，以換行方式分隔各看板，不分大小寫
+
+2. ### 新增看板
+點擊後新增隱藏看板
+
+3. ### 隱藏看板
+隱藏看板列表
+
+4. ### 編輯看板
+點擊後開始編輯看板，可解除看板話題隱藏狀態
+
+5. ### 完成編輯
+點擊後完成編輯，離開此頁面後才會正式儲存編輯結果
+
+6. ### 刪除看板
+點擊後刪除此看板
