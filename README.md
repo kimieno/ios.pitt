@@ -316,10 +316,13 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ![Image of Topic Settings Options](https://kimieno.github.io/ios.pitt/images/topic_settings.png) 
 
-1. ### 切換排序
+1. ### 設定
+點擊後開啟話題設定選項
+
+2. ### 切換排序
 共有兩種排序方式，依話題熱門度排序以及依話題新鮮度排序
 
-2. ### 編輯隱藏看板
+3. ### 編輯隱藏看板
 點擊後進入編輯隱藏看板頁面，可新增隱藏看板或刪除隱藏看板
 
 ## 編輯隱藏看板
