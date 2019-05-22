@@ -473,23 +473,53 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 8. ### 刪除所有紀錄
 可一次刪除所有紀錄  
-
+  
 #### [返回頁首](#操作手冊) 
 
 ## 閱讀紀錄分類
 
 ![Image of Subs Records_Categories_Page](https://kimieno.github.io/ios.pitt/images/records_categories.png)   
 
+1. ### 所有閱讀
+目前登入帳號的所有閱讀紀錄，包含我的文章及已推文
+
+2. ### 已推文
+目前登入帳號推過文的文章記錄
+
+3. ### 我的文章
+目前登入帳號發文紀錄（需閱讀過才會紀錄）
+
+4. ### 稍後閱讀
+目前登入帳號加入稍後閱讀的文章
+
+5. ### 追蹤文章
+目前追蹤的文章  
+  
 #### [返回頁首](#操作手冊) 
 
 ## 閱讀紀錄顯示方式
 
 ![Image of Subs Records_Group_Page](https://kimieno.github.io/ios.pitt/images/records_group.png)   
 
+1. ### 切換顯示方式
+可將相同文章分開顯示為不同紀錄，或是合併為相同紀錄  
+  
 #### [返回頁首](#操作手冊) 
 
 ## 刪除閱讀紀錄
 
 ![Image of Subs Delete Records_Page](https://kimieno.github.io/ios.pitt/images/delete_records.png)   
 
+1. ### 刪除紀錄
+點擊後將刪除紀錄
+
+2. ### 刪除所有文章
+將刪除包含已推文、我的文章的所有閱讀紀錄，但不包含稍後閱讀及追蹤文章
+
+3. ### 刪除已推文
+刪除所有目前帳號推過文的閱讀紀錄
+
+4. ### 刪除我的文章
+刪除所有目前帳號發文的閱讀紀錄  
+  
 #### [返回頁首](#操作手冊) 
