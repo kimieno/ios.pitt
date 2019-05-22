@@ -472,6 +472,24 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 開啟設定，可調整列表顯示方式
 
 8. ### 刪除所有紀錄
-可一次刪除所有紀錄
+可一次刪除所有紀錄  
+
+#### [返回頁首](#操作手冊) 
+
+## 閱讀紀錄分類
+
+![Image of Subs Records_Categories_Page](https://kimieno.github.io/ios.pitt/images/records_categories.png)   
+
+#### [返回頁首](#操作手冊) 
+
+## 閱讀紀錄顯示方式
+
+![Image of Subs Records_Group_Page](https://kimieno.github.io/ios.pitt/images/records_group.png)   
+
+#### [返回頁首](#操作手冊) 
+
+## 刪除閱讀紀錄
+
+![Image of Subs Delete Records_Page](https://kimieno.github.io/ios.pitt/images/delete_records.png)   
 
 #### [返回頁首](#操作手冊) 
