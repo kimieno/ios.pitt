@@ -23,6 +23,9 @@
 [閱讀紀錄分類](#閱讀紀錄分類)  
 [閱讀紀錄顯示方式](#閱讀紀錄顯示方式)  
 [刪除閱讀紀錄](#刪除閱讀紀錄)  
+[鄉民名冊](#鄉民名冊)  
+[名冊選項](#名冊選項)  
+[水球聊天](#水球聊天)  
 
 # FAQ
 [PTT 與 PiTT 的關係](#PTT與PiTT的關係)  
@@ -442,7 +445,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄
 
-![Image of Subs Records_Page](https://kimieno.github.io/ios.pitt/images/records_page.png) 
+![Image of Records_Page](https://kimieno.github.io/ios.pitt/images/records_page.png) 
 
 1. ### 切換分類
 點擊後顯示分類選單，共有五種分類  
@@ -478,7 +481,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄分類
 
-![Image of Subs Records_Categories_Page](https://kimieno.github.io/ios.pitt/images/records_categories.png)   
+![Image of Records_Categories_Page](https://kimieno.github.io/ios.pitt/images/records_categories.png)   
 
 1. ### 所有閱讀
 目前登入帳號的所有閱讀紀錄，包含我的文章及已推文
@@ -499,7 +502,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄顯示方式
 
-![Image of Subs Records_Group_Page](https://kimieno.github.io/ios.pitt/images/records_group.png)   
+![Image of Records_Group_Page](https://kimieno.github.io/ios.pitt/images/records_group.png)   
 
 1. ### 切換顯示方式
 可將相同文章分開顯示為不同紀錄，或是合併為相同紀錄  
@@ -508,7 +511,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 刪除閱讀紀錄
 
-![Image of Subs Delete Records_Page](https://kimieno.github.io/ios.pitt/images/delete_records.png)   
+![Image of Delete Records_Page](https://kimieno.github.io/ios.pitt/images/delete_records.png)   
 
 1. ### 刪除紀錄
 點擊後將刪除紀錄
@@ -521,5 +524,75 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 4. ### 刪除我的文章
 刪除所有目前帳號發文的閱讀紀錄  
+  
+#### [返回頁首](#操作手冊) 
+
+## 鄉民名冊
+
+![Image of Ptter_Page](https://kimieno.github.io/ios.pitt/images/ptter_page.png)   
+
+1. ### 搜尋鄉民
+輸入鄉民完整ID查詢鄉民資訊
+
+2. ### 鄉民ID
+加入名冊內的鄉民帳號
+
+3. ### 最近訊息
+水球聊天記錄內的最新訊息
+
+4. ### 訊息時間
+水球聊天記錄內的最新訊息時間
+
+5. ### 未讀訊息數
+尚未閱讀的訊息數量
+
+6. ### 名冊項目
+點擊可開啟水球聊天頁面，長按可顯示名冊選項  
+  
+#### [返回頁首](#操作手冊) 
+
+## 名冊選項
+
+![Image of Ptter_Options Page](https://kimieno.github.io/ios.pitt/images/ptter_options.png) 
+
+1. ### 查詢鄉民資訊
+點擊後將顯示鄉民資訊頁
+
+2. ### 封鎖
+將作者加入封鎖名單，所有文章、信件、推文、水球以及話題皆會被封鎖，被封鎖的項目會顯示為淡化項目  
+此處之所以不完全隱藏項目，是為避免造成 App 有刻意隱藏特定資訊的疑慮  
+所有封鎖項目皆可隨時查閱或解除封鎖
+
+3. ### 好鄉民
+將作者加入好鄉民名單，推文前方將顯示愛心圖示，同時加入封鎖及好鄉民表示為超級好友，除了不會顯示為封鎖狀態外，推文前方將顯示特殊圖示。
+
+4. ### 刪除
+將鄉民從名冊內刪除，一併刪除水球紀錄  
+  
+#### [返回頁首](#操作手冊) 
+
+## 水球聊天
+
+水球聊天為 PTT 內建聊天功能，由於架構較老舊，對於傳送訊息方面有些許限制
+
+![Image of Water Polo_Page](https://kimieno.github.io/ios.pitt/images/water_polo.png)   
+
+1. ### 對方水球
+對方傳送的水球訊息與時間
+
+2. ### 我的水球
+我傳送的水球訊息與時間
+
+3. ### 輸入水球訊息
+可輸入水球訊息
+
+4. ### 訊息提示
+水球訊息長度最大為 54 （中文長度為 2），超過此長度將無法傳送並顯示超過多少字元
+
+5. ### 發送水球
+點擊後送出水球，若對方已下線則無法傳送
+
+6. ### 隱藏鍵盤
+點擊後隱藏鍵盤  
   
 #### [返回頁首](#操作手冊) 
