@@ -232,7 +232,7 @@
 
 ## 信件列表
 
-![Image of Mail Page](./images/mail_page.png)  
+![Image of Mail Page](./images/mails_page.png)  
 
 1. ### 信件項目
 點擊閱讀信件，長按顯示信件選項，前方的圖示為藍色代表未讀、灰色代表已讀、回覆圖示代表已回信。
@@ -301,7 +301,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最新消息/延燒話題
 
-![Image of New_and Hot_Topics](./images/new_n_hot_topic.png)
+![Image of New_and Hot_Topics](./images/new_n_hot_topics.png)
 
 1. ### 文章標題
 此文章的標題
@@ -674,8 +674,6 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 一般文章以圓圈顯示，藍色為未讀文章，灰色為已讀文章，綠色為已讀但有新推文/經過編輯  
   
 #### [返回頁首](#操作手冊) 
-  
-----
 
 ## PTT與PiTT的關係
 
