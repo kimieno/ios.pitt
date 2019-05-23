@@ -45,7 +45,7 @@
 
 ## 登入畫面
 
-![Image of Login Page](https://kimieno.github.io/ios.pitt/images/login_page.png)
+![Image of Login Page](./images/login_page.png)
 
 1. ### 關於 
 點擊後進入關於頁面，可查看 PiTT 更新紀錄等資訊
@@ -72,7 +72,7 @@
 
 ## 連線畫面
 
-![Image of Connecting Page](https://kimieno.github.io/ios.pitt/images/connecting_page.png)
+![Image of Connecting Page](./images/connecting_page.png)
 
 1. ### 站台負載
 顯示目前站台負載情形  
@@ -101,7 +101,7 @@
 共有十種分頁，分別為最愛看板、熱門看板、分類看板、鄉民信箱、最新消息、延燒話題、關注話題、閱讀紀錄、最近造訪、鄉民名冊  
 可在主選單 - 設定 - 設定分頁顯示與順序內調整首頁、排序與分頁開關。
 
-![Image of Page View Page](https://kimieno.github.io/ios.pitt/images/page_view.png)
+![Image of Page View Page](./images/page_view.png)
 
 1. ### 首頁
 點擊項目可設定為首頁，項目左方將有突顯標記，登入後將首先顯示此分頁
@@ -119,7 +119,7 @@
 
 ## 工具列
 
-![Image of Toolbar Page](https://kimieno.github.io/ios.pitt/images/toolbar.png)
+![Image of Toolbar Page](./images/toolbar.png)
 
 1. ### 展開工具列
 點擊後可展開工具列，可進行排序與其他操作
@@ -136,7 +136,7 @@
 
 看板列表包含最愛看板、熱門看板及子目錄
 
-![Image of Boards Page](https://kimieno.github.io/ios.pitt/images/boards_page.png)
+![Image of Boards Page](./images/boards_page.png)
 
 1. ### 看板項目
 點擊進入看板、目錄，長按顯示看板選項，此處選項會依據分頁類型（如：最愛看板、熱門看板）或看板類型（目錄、是否加入最愛等等）而有所不同，前方的圓圈分別為藍色代表有新進文章未讀，灰色代表沒有新進文章未讀。
@@ -188,7 +188,7 @@
 
 長按看板項目後顯示的看板操作項目
 
-![Image of Boards_Options Page](https://kimieno.github.io/ios.pitt/images/board_options.png)
+![Image of Boards_Options Page](./images/board_options.png)
 
 1. ### 新增/移除最愛
 將看板加入/移除最愛看板，已加入最愛僅顯示移除選項，反之亦然  
@@ -210,8 +210,8 @@
 
 ## 最愛看板排序
 
-![Image of Favorite_Sorting Page 1](https://kimieno.github.io/ios.pitt/images/favorite_sorting_1.png)  
-![Image of Favorite_Sorting Page 2](https://kimieno.github.io/ios.pitt/images/favorite_sorting_2.png)
+![Image of Favorite_Sorting Page 1](./images/favorite_sorting_1.png)  
+![Image of Favorite_Sorting Page 2](./images/favorite_sorting_2.png)
 
 1. ### 自訂看板位置
 點擊後將可自訂任意看板位置，以拖曳方式操作，設定後無法復原。
@@ -232,7 +232,7 @@
 
 ## 信件列表
 
-![Image of Mail Page](https://kimieno.github.io/ios.pitt/images/mail_page.png)  
+![Image of Mail Page](./images/mail_page.png)  
 
 1. ### 信件項目
 點擊閱讀信件，長按顯示信件選項，前方的圖示為藍色代表未讀、灰色代表已讀、回覆圖示代表已回信。
@@ -251,7 +251,7 @@
 
 ## 信件選項
 
-![Image of Mail Options](https://kimieno.github.io/ios.pitt/images/mail_options.png)  
+![Image of Mail Options](./images/mail_options.png)  
 
 1. ### 查詢作者資訊
 點擊後將顯示作者資訊頁面。
@@ -289,7 +289,7 @@
 
 ## 話題功能
 
-![Image of Topics](https://kimieno.github.io/ios.pitt/images/topics.png)  
+![Image of Topics](./images/topics.png)  
 
 PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度的話題  
 
@@ -301,7 +301,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最新消息/延燒話題
 
-![Image of New_and Hot_Topics](https://kimieno.github.io/ios.pitt/images/new_n_hot_topic.png)
+![Image of New_and Hot_Topics](./images/new_n_hot_topic.png)
 
 1. ### 文章標題
 此文章的標題
@@ -321,7 +321,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 與最新消息共用相同選項
 
-![Image of Topic Options](https://kimieno.github.io/ios.pitt/images/topic_options.png) 
+![Image of Topic Options](./images/topic_options.png) 
 
 1. ### 暫時隱藏此話題
 點擊後將暫時隱藏話題，直到下次重新啟動 App 為止
@@ -356,7 +356,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 延燒話題設定
 
-![Image of Topic Settings Options](https://kimieno.github.io/ios.pitt/images/topic_settings.png) 
+![Image of Topic Settings Options](./images/topic_settings.png) 
 
 1. ### 設定
 點擊後開啟話題設定選項
@@ -373,7 +373,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 與最新消息共用設定
 
-![Image of Hidden Boards_Page](https://kimieno.github.io/ios.pitt/images/hidden_boards.png) 
+![Image of Hidden Boards_Page](./images/hidden_boards.png) 
 
 1. ### 輸入看板
 可一次輸入多個看板同時新增，以換行方式分隔各看板，不分大小寫
@@ -397,7 +397,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 關注話題選項
 
-![Image of Subscribed Topic_Options_Page](https://kimieno.github.io/ios.pitt/images/subs_options.png) 
+![Image of Subscribed Topic_Options_Page](./images/subs_options.png) 
 
 1. ### 暫時隱藏此話題
 點擊後將暫時隱藏話題，直到下次重新啟動 App 為止
@@ -429,7 +429,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 關注話題設定
 
-![Image of Subscribed Topic_Settings_Page](https://kimieno.github.io/ios.pitt/images/subs_settings.png) 
+![Image of Subscribed Topic_Settings_Page](./images/subs_settings.png) 
 
 1. ### 聚焦看板
 點擊後將顯示目前已加入關注話題的所有看板，可隨意切換至任意看板瀏覽所有話題。
@@ -450,7 +450,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 編輯關注看板
 
-![Image of Subs Boards_Page](https://kimieno.github.io/ios.pitt/images/subs_boards.png) 
+![Image of Subs Boards_Page](./images/subs_boards.png) 
 
 1. ### 輸入看板
 可一次輸入多個看板同時新增，以換行方式分隔各看板，不分大小寫
@@ -477,7 +477,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄
 
-![Image of Records_Page](https://kimieno.github.io/ios.pitt/images/records_page.png) 
+![Image of Records_Page](./images/records_page.png) 
 
 1. ### 切換分類
 點擊後顯示分類選單，共有五種分類  
@@ -513,7 +513,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄分類
 
-![Image of Records_Categories_Page](https://kimieno.github.io/ios.pitt/images/records_categories.png)   
+![Image of Records_Categories_Page](./images/records_categories.png)   
 
 1. ### 所有閱讀
 目前登入帳號的所有閱讀紀錄，包含我的文章及已推文
@@ -534,7 +534,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄顯示方式
 
-![Image of Records_Group_Page](https://kimieno.github.io/ios.pitt/images/records_group.png)   
+![Image of Records_Group_Page](./images/records_group.png)   
 
 1. ### 切換顯示方式
 可將相同文章分開顯示為不同紀錄，或是合併為相同紀錄  
@@ -543,7 +543,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 刪除閱讀紀錄
 
-![Image of Delete Records_Page](https://kimieno.github.io/ios.pitt/images/delete_records.png)   
+![Image of Delete Records_Page](./images/delete_records.png)   
 
 1. ### 刪除紀錄
 點擊後將刪除紀錄
@@ -561,7 +561,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 鄉民名冊
 
-![Image of Ptter_Page](https://kimieno.github.io/ios.pitt/images/ptter_page.png)   
+![Image of Ptter_Page](./images/ptter_page.png)   
 
 1. ### 搜尋鄉民
 輸入鄉民完整ID查詢鄉民資訊
@@ -585,7 +585,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 名冊選項
 
-![Image of Ptter_Options Page](https://kimieno.github.io/ios.pitt/images/ptter_options.png) 
+![Image of Ptter_Options Page](./images/ptter_options.png) 
 
 1. ### 查詢鄉民資訊
 點擊後將顯示鄉民資訊頁
@@ -607,7 +607,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 水球聊天為 PTT 內建聊天功能，由於架構較老舊，對於傳送訊息方面有些許限制
 
-![Image of Water Polo_Page](https://kimieno.github.io/ios.pitt/images/water_polo.png)   
+![Image of Water Polo_Page](./images/water_polo.png)   
 
 1. ### 對方水球
 對方傳送的水球訊息與時間
@@ -631,7 +631,51 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 文章列表
 
+![Image of Articles_Page](./images/articles_page.png)   
+
+1. ### 置頂文章項目
+看板內的置頂（置底）文，點擊進入文章，長按顯示文章選項
+
+2. ### 文章項目
+看板內的文章，點擊進入文章，長按顯示文章選項
+
+3. ### 推文數
+文章的推文數，推文數較多則顯示為 1~99，超過將顯示為「爆」  
+噓文數較多則顯示為X1~X9，每十則噓文進位一次，超過 99 則需文將顯示為「XX」 
+計算方式為總推文數 - 總噓文數，正數顯示為推文數，負數顯示為噓文數
+
+4. ### 標題
+文章標題，有長度限制，多餘的部分將被刪減，進入內文後才會顯示完整標題 
+前方的 [] 文字為文章分類，分類前方的文字則代表文章類型  
+Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
+
+5. ### 日期與作者
+發文日期與作者
+
+6. ### 序號與狀態
+文章序號與文章狀態，其中序號非固定值，可能會因為刪文、搜尋結果改變而變動  
+文章狀態有以下幾種：  
+  
+* "+" 未讀
+* "~" 已讀但有新推文/經過編輯
+* " " 已讀
+* "M" 未讀且被板主標記，被標記的文章不會被系統清除
+* "=" 已讀但有新推文/經過編輯且被板主標記
+* "m" 已讀且被板主標記
+* "!" 鎖文
+* "S" 未讀且被板主標記
+* "s" 已讀且被板主標記
+* "D" 使用者標記
+* "*" 已收錄到文摘，僅板主可見  
+
+7. ### 狀態圖示
+根據文章狀態顯示的圖示，  
+置頂（置底）文以星號顯示，實心為未讀文章，空心為已讀文章，綠色空心為已讀但有新推文/經過編輯  
+一般文章以圓圈顯示，藍色為未讀文章，灰色為已讀文章，綠色為已讀但有新推文/經過編輯  
+  
 #### [返回頁首](#操作手冊) 
+  
+----
 
 ## PTT與PiTT的關係
 
