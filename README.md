@@ -1618,7 +1618,7 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 ## 發表文章
 
-<iframe width="1120" height="630" src="https://www.youtube-nocookie.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="1040" height="584" src="https://www.youtube-nocookie.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
 [返回頁首](#操作手冊) 
 
