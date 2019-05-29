@@ -66,6 +66,7 @@
 [主選單頁面](#主選單頁面)  
 [帳號選項](#帳號選項)  
 [發表文章](#發表文章)  
+[回覆文章](#回覆文章)  
 
 # 問與答
 [簡介](#簡介)  
@@ -1618,7 +1619,13 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 ## 發表文章
 
-<iframe width="1040" height="584" src="https://www.youtube-nocookie.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="1040" height="584" src="https://www.youtube.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
+[返回頁首](#操作手冊) 
+
+## 回覆文章
+
+<iframe width="1040" height="584" src="https://www.youtube.com/embed/7-72P-vAjPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 [返回頁首](#操作手冊) 
 
