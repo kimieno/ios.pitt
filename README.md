@@ -68,6 +68,8 @@
 [發表文章](#發表文章)  
 [回覆文章](#回覆文章)  
 [編輯簽名檔](#編輯簽名檔)  
+[編輯文章](#編輯文章)  
+[從暫存檔恢復](#從暫存檔恢復)  
 
 # 問與答
 [簡介](#簡介)  
@@ -1258,7 +1260,7 @@ PiTT 不會在背景自動登入進行任何操作
 19. ### 開啟網頁版
 開啟此文章的網頁版
 
-20. ### 編輯文章
+20. ### 編輯文章功能
 進入編輯文章介面，只有文章作者可以操作
 
 21. ### 搜尋系列文
@@ -1634,6 +1636,18 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 <iframe width="1040" height="584" src="https://www.youtube.com/embed/F-ZFCgcboe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
+[返回頁首](#操作手冊) 
+
+## 編輯文章
+
+<iframe width="1040" height="584" src="https://www.youtube.com/embed/XGUdDIv9Lqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+[返回頁首](#操作手冊) 
+
+## 從暫存檔恢復
+
+<iframe width="1040" height="584" src="https://www.youtube.com/embed/OAW2u5i_h2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        
 [返回頁首](#操作手冊) 
 
 ----
