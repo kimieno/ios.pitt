@@ -65,6 +65,7 @@
 [精華區路徑](#精華區路徑)  
 [主選單頁面](#主選單頁面)  
 [帳號選項](#帳號選項)  
+[發表文章](#發表文章)  
 
 # 問與答
 [簡介](#簡介)  
@@ -1612,6 +1613,12 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 4. ### 刪除帳號
 將刪除紀錄的帳號、密碼、閱讀紀錄並停止此帳號相關的所有推播通知  
+  
+[返回頁首](#操作手冊) 
+
+## 發表文章
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
 [返回頁首](#操作手冊) 
 
