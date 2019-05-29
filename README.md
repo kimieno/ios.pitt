@@ -1,4 +1,4 @@
-<div align="center"><a href="https://itunes.apple.com/app/id1345822611" target="_blank"><img src="https://kimieno.github.io/ios.pitt/images/app_store_badge.png" width="150" height="55" ></a></div>
+<div align="center"><a href="https://itunes.apple.com/app/id1345822611" target="_blank"><img src="./v1/images/app_store_badge.png" width="150" height="55" ></a></div>
 <div align="center">或是<a href="https://testflight.apple.com/join/TDrhSSs0" target="_blank">加入測試計畫</a></div>
 
 # 操作手冊
@@ -67,6 +67,7 @@
 [帳號選項](#帳號選項)  
 [發表文章](#發表文章)  
 [回覆文章](#回覆文章)  
+[編輯簽名檔](#編輯簽名檔)  
 
 # 問與答
 [簡介](#簡介)  
@@ -86,7 +87,7 @@
 
 ## 登入畫面
 
-![Image of Login Page](./images/login_page.png)
+![Image of Login Page](./v1/images/login_page.png)
 
 1. ### 關於 
 點擊後進入關於頁面，可查看 PiTT 更新紀錄等資訊
@@ -113,7 +114,7 @@
 
 ## 連線畫面
 
-![Image of Connecting Page](./images/connecting_page.png)
+![Image of Connecting Page](./v1/images/connecting_page.png)
 
 1. ### 站台負載
 顯示目前站台負載情形  
@@ -143,7 +144,7 @@
 可在主選單 - 設定 - 設定分頁顯示與順序內調整首頁、排序與分頁開關。  
 以左右滑動方式循環切換分頁，亦可在主選單點擊切換。
 
-![Image of Page View Page](./images/page_view.png)
+![Image of Page View Page](./v1/images/page_view.png)
 
 1. ### 首頁
 點擊項目可設定為首頁，項目左方將有突顯標記，登入後將首先顯示此分頁
@@ -161,7 +162,7 @@
 
 ## 工具列
 
-![Image of Toolbar Page](./images/toolbar.png)
+![Image of Toolbar Page](./v1/images/toolbar.png)
 
 1. ### 展開工具列
 點擊後可展開工具列，可進行排序與其他操作
@@ -178,7 +179,7 @@
 
 看板列表包含最愛看板、熱門看板及子目錄
 
-![Image of Boards Page](./images/boards_page.png)
+![Image of Boards Page](./v1/images/boards_page.png)
 
 1. ### 看板項目
 點擊進入看板、目錄，長按顯示看板選項，此處選項會依據分頁類型（如：最愛看板、熱門看板）或看板類型（目錄、是否加入最愛等等）而有所不同，前方的圓圈分別為藍色代表有新進文章未讀，灰色代表沒有新進文章未讀。
@@ -230,7 +231,7 @@
 
 長按看板項目後顯示的看板操作項目
 
-![Image of Boards_Options Page](./images/board_options.png)
+![Image of Boards_Options Page](./v1/images/board_options.png)
 
 1. ### 新增/移除最愛
 將看板加入/移除最愛看板，已加入最愛僅顯示移除選項，反之亦然  
@@ -252,8 +253,8 @@
 
 ## 最愛看板排序
 
-![Image of Favorite_Sorting Page 1](./images/favorite_sorting_1.png)  
-![Image of Favorite_Sorting Page 2](./images/favorite_sorting_2.png)
+![Image of Favorite_Sorting Page 1](./v1/images/favorite_sorting_1.png)  
+![Image of Favorite_Sorting Page 2](./v1/images/favorite_sorting_2.png)
 
 1. ### 自訂看板位置
 點擊後將可自訂任意看板位置，以拖曳方式操作，設定後無法復原。
@@ -274,7 +275,7 @@
 
 ## 信件列表
 
-![Image of Mail Page](./images/mails_page.png)  
+![Image of Mail Page](./v1/images/mails_page.png)  
 
 1. ### 信件項目
 點擊閱讀信件，長按顯示信件選項，前方的圖示為藍色代表未讀、灰色代表已讀、回覆圖示代表已回信。
@@ -293,7 +294,7 @@
 
 ## 信件選項
 
-![Image of Mail Options](./images/mail_options.png)  
+![Image of Mail Options](./v1/images/mail_options.png)  
 
 1. ### 查詢作者資訊
 點擊後將顯示作者資訊頁面。
@@ -331,7 +332,7 @@
 
 ## 話題功能
 
-![Image of Topics](./images/topics.png)  
+![Image of Topics](./v1/images/topics.png)  
 
 PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度的話題  
 
@@ -343,7 +344,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最新消息/延燒話題
 
-![Image of New_and Hot_Topics](./images/new_n_hot_topics.png)
+![Image of New_and Hot_Topics](./v1/images/new_n_hot_topics.png)
 
 1. ### 文章標題
 此文章的標題
@@ -363,7 +364,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 與最新消息共用相同選項
 
-![Image of Topic Options](./images/topic_options.png) 
+![Image of Topic Options](./v1/images/topic_options.png) 
 
 1. ### 暫時隱藏此話題
 點擊後將暫時隱藏話題，直到下次重新啟動 App 為止
@@ -398,7 +399,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 延燒話題設定
 
-![Image of Topic Settings Options](./images/topic_settings.png) 
+![Image of Topic Settings Options](./v1/images/topic_settings.png) 
 
 1. ### 設定
 點擊後開啟話題設定選項
@@ -415,7 +416,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 與最新消息共用設定
 
-![Image of Hidden Boards_Page](./images/hidden_boards.png) 
+![Image of Hidden Boards_Page](./v1/images/hidden_boards.png) 
 
 1. ### 輸入看板
 可一次輸入多個看板同時新增，以換行方式分隔各看板，不分大小寫
@@ -439,7 +440,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 關注話題選項
 
-![Image of Subscribed Topic_Options_Page](./images/subs_options.png) 
+![Image of Subscribed Topic_Options_Page](./v1/images/subs_options.png) 
 
 1. ### 暫時隱藏此話題
 點擊後將暫時隱藏話題，直到下次重新啟動 App 為止
@@ -471,7 +472,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 關注話題設定
 
-![Image of Subscribed Topic_Settings_Page](./images/subs_settings.png) 
+![Image of Subscribed Topic_Settings_Page](./v1/images/subs_settings.png) 
 
 1. ### 聚焦看板
 點擊後將顯示目前已加入關注話題的所有看板，可隨意切換至任意看板瀏覽所有話題。
@@ -492,7 +493,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 編輯關注看板
 
-![Image of Subs Boards_Page](./images/subs_boards.png) 
+![Image of Subs Boards_Page](./v1/images/subs_boards.png) 
 
 1. ### 輸入看板
 可一次輸入多個看板同時新增，以換行方式分隔各看板，不分大小寫
@@ -519,7 +520,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄
 
-![Image of Records_Page](./images/records_page.png) 
+![Image of Records_Page](./v1/images/records_page.png) 
 
 1. ### 切換分類
 點擊後顯示分類選單，共有五種分類  
@@ -555,7 +556,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄分類
 
-![Image of Records_Categories_Page](./images/records_categories.png)   
+![Image of Records_Categories_Page](./v1/images/records_categories.png)   
 
 1. ### 所有閱讀
 目前登入帳號的所有閱讀紀錄，包含我的文章及已推文
@@ -576,7 +577,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 閱讀紀錄顯示方式
 
-![Image of Records_Group_Page](./images/records_group.png)   
+![Image of Records_Group_Page](./v1/images/records_group.png)   
 
 1. ### 切換顯示方式
 可將相同文章分開顯示為不同紀錄，或是合併為相同紀錄  
@@ -585,7 +586,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 刪除閱讀紀錄
 
-![Image of Delete Records_Page](./images/delete_records.png)   
+![Image of Delete Records_Page](./v1/images/delete_records.png)   
 
 1. ### 刪除紀錄
 點擊後將刪除紀錄
@@ -605,7 +606,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 目前登入帳號的看板瀏覽紀錄
 
-![Image of Top Boards_Page](./images/top_boards.png)  
+![Image of Top Boards_Page](./v1/images/top_boards.png)  
 
 1. ### 看板項目
 點擊進入看板，長按顯示看板選項
@@ -623,7 +624,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最近造訪選項
 
-![Image of Top Board Options](./images/top_board_options.png)  
+![Image of Top Board Options](./v1/images/top_board_options.png)  
 
 1. ### 加入我的最愛
 點擊後加入我的最愛當前目錄
@@ -644,7 +645,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 刪除最近造訪
 
-![Image of Delete Top Boards](./images/delete_top_boards.png)  
+![Image of Delete Top Boards](./v1/images/delete_top_boards.png)  
 
 1. ### 刪除按鈕
 點擊後將該看板自瀏覽紀錄內移除
@@ -659,7 +660,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 最近造訪排序
 
-![Image of Top Boards Sorting](./images/top_boards_sorting.png)  
+![Image of Top Boards Sorting](./v1/images/top_boards_sorting.png)  
 
 共有三種排序  
   
@@ -671,7 +672,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 分類看板
 
-![Image of Category Page](./images/category.png)  
+![Image of Category Page](./v1/images/category.png)  
 
 1. ### 分類看板項目
 點擊後進入分類
@@ -680,7 +681,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 鄉民名冊
 
-![Image of Ptter_Page](./images/ptter_page.png)   
+![Image of Ptter_Page](./v1/images/ptter_page.png)   
 
 1. ### 搜尋鄉民
 輸入鄉民完整ID查詢鄉民資訊
@@ -704,7 +705,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 名冊選項
 
-![Image of Ptter_Options Page](./images/ptter_options.png) 
+![Image of Ptter_Options Page](./v1/images/ptter_options.png) 
 
 1. ### 查詢鄉民資訊
 點擊後將顯示鄉民資訊頁
@@ -726,7 +727,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 水球聊天為 PTT 內建聊天功能，由於架構較老舊，對於傳送訊息方面有些許限制
 
-![Image of Water Polo_Page](./images/water_polo.png)   
+![Image of Water Polo_Page](./v1/images/water_polo.png)   
 
 1. ### 對方水球
 對方傳送的水球訊息與時間
@@ -750,7 +751,7 @@ PiTT 有三大話題功能，取向各有不同，囊括 PTT 最具有討論度�
 
 ## 文章列表
 
-![Image of Articles_Page](./images/articles_page.png)   
+![Image of Articles_Page](./v1/images/articles_page.png)   
 
 1. ### 置頂文章項目
 看板內的置頂（置底）文，點擊進入文章，長按顯示文章選項
@@ -796,7 +797,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 文章列表功能
 
-![Image of Articles_Function](./images/articles_function.png)   
+![Image of Articles_Function](./v1/images/articles_function.png)   
 
 1. ### 發廢文
 發表文章功能，請先閱讀置底板規，以免被水桶
@@ -839,7 +840,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 文章列表選項
 
-![Image of Articles_Options](./images/article_options.png) 
+![Image of Articles_Options](./v1/images/article_options.png) 
   
 1. ### 查詢文章資訊
 點擊後顯示文章資訊頁面
@@ -871,7 +872,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 搜尋文章分頁
 
-![Image of Search Article Page](./images/search_article_page.png) 
+![Image of Search Article Page](./v1/images/search_article_page.png) 
 
 共有三種分頁，四種搜尋功能，使用左右滑動切換頁面可操作搜尋紀錄，只有推文數列表為固定值供快速搜尋用  
   
@@ -884,7 +885,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 搜尋文章
 
-![Image of Search Articles](./images/search_articles.png) 
+![Image of Search Articles](./v1/images/search_articles.png) 
 
 1. ### 輸入關鍵字
 可輸入標題關鍵字、作者ID或推文數搜尋
@@ -914,7 +915,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 搜尋文章代碼
 
-![Image of Search AID](./images/search_aid.png) 
+![Image of Search AID](./v1/images/search_aid.png) 
 
 1. ### 輸入文章代碼
 在關鍵字輸入區輸入 # 後將自動轉換為搜尋文章代碼模式
@@ -926,7 +927,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 刪除搜尋文章紀錄
 
-![Image of Delete_Search Article History](./images/delete_search_article_history.png) 
+![Image of Delete_Search Article History](./v1/images/delete_search_article_history.png) 
 
 1. ### 刪除關鍵字
 刪除選擇的紀錄
@@ -938,7 +939,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 文章資訊
 
-![Image of Article Info](./images/article_info.png) 
+![Image of Article Info](./v1/images/article_info.png) 
 
 1. ### 文章標題
 查詢的文章標題
@@ -964,7 +965,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 轉錄前請詳閱注意事項並注意板規與站規
 
-![Image of Forward To Board](./images/forward_to_board.png) 
+![Image of Forward To Board](./v1/images/forward_to_board.png) 
 
 1. ### 轉錄目標看板
 文章/信件將轉錄至此看板
@@ -988,11 +989,11 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 樂透
 
-![Image of Lottery Page 1](./images/lottery_page_1.png)  
+![Image of Lottery Page 1](./v1/images/lottery_page_1.png)  
  
-![Image of Lottery Page 2](./images/lottery_page_2.png)   
+![Image of Lottery Page 2](./v1/images/lottery_page_2.png)   
 
-![Image of Lottery Page 3](./images/lottery_page_3.png)   
+![Image of Lottery Page 3](./v1/images/lottery_page_3.png)   
 
 1. ### 站規
 樂透全站規則
@@ -1028,7 +1029,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 看板設定
 
-![Image of Board Settings](./images/board_settings.png)   
+![Image of Board Settings](./v1/images/board_settings.png)   
 
 1. ### 板標
 看板描述
@@ -1049,7 +1050,7 @@ Re: 代表回文，Fw: 代表轉錄，Lk: 代表鎖文
 
 ## 轉寄
 
-![Image of Forward To Mail](./images/forward_to_mail.png)   
+![Image of Forward To Mail](./v1/images/forward_to_mail.png)   
 
 1. ### 輸入轉寄對象
 可輸入外部信箱位址或鄉民 ID
@@ -1078,7 +1079,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
 
 在某些情況下將顯示此頁面避免機器人自動操作造成站台負載過高(如：連續轉寄)
 
-![Image of Captcha Page](./images/captcha.png)   
+![Image of Captcha Page](./v1/images/captcha.png)   
 
 1. ### 輸入驗證碼
 輸入下方看見的驗證碼
@@ -1097,7 +1098,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
 
 ## 使用者資訊
 
-![Image of User Info](./images/user_info.png)   
+![Image of User Info](./v1/images/user_info.png)   
 
 1. ### ID暱稱
 查詢的使用者帳號與暱稱
@@ -1140,7 +1141,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
 
 ## 縮網址
 
-![Image of Url Shortener](./images/url_shortener.png) 
+![Image of Url Shortener](./v1/images/url_shortener.png) 
 
 1. ### 輸入網址
 想要縮短的網址
@@ -1158,7 +1159,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
 
 ## 搜尋看板
 
-![Image of Search Board Page](./images/search_board_page.png) 
+![Image of Search Board Page](./v1/images/search_board_page.png) 
 
 1. ### 搜尋關鍵字
 可搜尋看板名稱或以關鍵字搜尋，由於看板名稱僅限英文、數字及部分符號，  
@@ -1174,7 +1175,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
   
 ## 文章內容
 
-![Image of Article Content Page](./images/article_content_page.png) 
+![Image of Article Content Page](./v1/images/article_content_page.png) 
 
 1. ### 標題
 文章內文標題，編輯時不會與列表標題同步更新，同時也會顯示比列表標題更多的字數
@@ -1192,7 +1193,7 @@ PiTT 紀錄的帳號，目前登入帳號將顯示為突顯顏色
 
 ## 文章內容功能
 
-![Image of Article Content Function](./images/article_content_function.png) 
+![Image of Article Content Function](./v1/images/article_content_function.png) 
 
 1. ### 推文
 開啟推文介面
@@ -1276,7 +1277,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 推文項目
 
-![Image of Push Item](./images/push_item.png) 
+![Image of Push Item](./v1/images/push_item.png) 
 
 1. ### 作者
 推文者 ID
@@ -1303,7 +1304,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 推文選項
 
-![Image of Push Options](./images/push_options.png) 
+![Image of Push Options](./v1/images/push_options.png) 
 
 1. ### 查詢作者資訊
 點擊後將顯示作者資訊頁面。
@@ -1339,7 +1340,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 預覽項目
 
-![Image of Preview Item](./images/preview_item.png) 
+![Image of Preview Item](./v1/images/preview_item.png) 
 
 1. ### 預覽圖
 網址的預覽圖片，若為圖片網址則為圖片內容
@@ -1360,7 +1361,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 預覽項目選項
 
-![Image of Preview Options](./images/preview_options.png) 
+![Image of Preview Options](./v1/images/preview_options.png) 
 
 1. ### 開啟
 開啟網址
@@ -1388,7 +1389,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 網址項目
 
-![Image of Link Item](./images/link_item.png) 
+![Image of Link Item](./v1/images/link_item.png) 
 
 1. ### 網址項目功能
 點擊後顯示網址選項  
@@ -1397,7 +1398,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 網址項目選項
 
-![Image of Link Options](./images/link_item_options.png) 
+![Image of Link Options](./v1/images/link_item_options.png) 
 
 1. ### 開啟
 開啟網址
@@ -1419,7 +1420,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 文章代碼項目
 
-![Image of Aid Item](./images/aid_link_item.png) 
+![Image of Aid Item](./v1/images/aid_link_item.png) 
 
 1. ### 文章代碼連結
 點擊後進入此代碼連結之文章內容，若此代碼不包含看板則會進入本看板相同代碼的文章  
@@ -1428,7 +1429,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 剪貼簿
 
-![Image of Clipboard Page](./images/clipboard_page.png) 
+![Image of Clipboard Page](./v1/images/clipboard_page.png) 
 
 此頁面專門用來複製文字，為讓使用者更方便複製完整內容而不被圖片預覽項目或推文格式阻礙，  
 因此顯示此複製用頁面，文字大小套用 ANSI 模式之文字大小設定  
@@ -1438,7 +1439,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 文章內容瀏覽模式
 
-![Image of ANSI Mode Page](./images/ansi_mode.png) 
+![Image of ANSI Mode Page](./v1/images/ansi_mode.png) 
 
 文章內容介面有兩種瀏覽模式  
 
@@ -1449,7 +1450,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 推文頁面
 
-![Image of Push Page](./images/push_page.png) 
+![Image of Push Page](./v1/images/push_page.png) 
 
 1. ### 預覽推文
 此處將預覽推文送出結果，可方便地檢視分段後的推文是否流暢
@@ -1503,7 +1504,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 可瀏覽原圖大小的功能，左右滑動切換圖片，下滑關閉頁面。  
 
-![Image of Image Browner](./images/image_browser.png) 
+![Image of Image Browner](./v1/images/image_browser.png) 
 
 1. ### 關閉
 關閉頁面
@@ -1521,7 +1522,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 精華區列表
 
-![Image of Archive Page](./images/archive_page.png) 
+![Image of Archive Page](./v1/images/archive_page.png) 
 
 1. ### 精華項目
 點擊進入目錄或文章，由於手機版實作限制，  
@@ -1547,7 +1548,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 精華區選項
 
-![Image of Archive Options](./images/archive_options.png) 
+![Image of Archive Options](./v1/images/archive_options.png) 
 
 1. ### 轉寄文章
 將精華區文章轉寄至信箱，  
@@ -1557,7 +1558,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 精華區路徑
 
-![Image of Archive Path](./images/archive_path.png) 
+![Image of Archive Path](./v1/images/archive_path.png) 
 
 1. ### 輸入路徑
 輸入目錄路徑或文章路徑，  
@@ -1573,7 +1574,7 @@ PiTT 不會在背景自動登入進行任何操作
 
 ## 主選單頁面
 
-![Image of Main Menu Path](./images/main_menu_page.png) 
+![Image of Main Menu Path](./v1/images/main_menu_page.png) 
 
 1. ### 連線位址
 目前的連線位址
@@ -1601,7 +1602,7 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 ## 帳號選項
 
-![Image of Account Options](./images/account_options.png) 
+![Image of Account Options](./v1/images/account_options.png) 
 
 1. ### 以此帳號重新連線
 點擊後可重新連線，若遇到問題，可使用此功能簡單排除
@@ -1627,6 +1628,12 @@ PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，
 
 <iframe width="1040" height="584" src="https://www.youtube.com/embed/7-72P-vAjPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
+[返回頁首](#操作手冊) 
+
+## 編輯簽名檔
+
+<iframe width="1040" height="584" src="https://www.youtube.com/embed/F-ZFCgcboe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
 [返回頁首](#操作手冊) 
 
 ----
