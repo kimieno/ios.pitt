@@ -2,8 +2,8 @@
 <div align="center">或是<a href="https://testflight.apple.com/join/TDrhSSs0" target="_blank">加入測試計畫</a></div>
 
 # 操作手冊
-[登入畫面](./docs/login_page.md)  
-[連線畫面](./docs/connecting_page.md)  
+[登入畫面](./docs/login_page.md#登入畫面)  
+[連線畫面](./docs/connecting_page.md#連線畫面)  
 [主畫面](#主畫面)  
 [工具列](#工具列)  
 [看板列表](#看板列表)  
