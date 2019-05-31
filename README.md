@@ -60,16 +60,16 @@
 [文章內容瀏覽模式](./docs/ansi_mode.md#文章內容瀏覽模式)  
 [推文頁面](./docs/push_page.md#推文頁面)  
 [大圖瀏覽](./docs/image_browser.md#大圖瀏覽)  
-[精華區列表](#精華區列表)  
-[精華區選項](#精華區選項)  
-[精華區路徑](#精華區路徑)  
-[主選單頁面](#主選單頁面)  
-[帳號選項](#帳號選項)  
-[發表文章](#發表文章)  
-[回覆文章](#回覆文章)  
-[編輯簽名檔](#編輯簽名檔)  
-[編輯文章](#編輯文章)  
-[從暫存檔恢復](#從暫存檔恢復)  
+[精華區列表](./docs/archive_page.md#精華區列表)  
+[精華區選項](./docs/archive_options.md#精華區選項)  
+[精華區路徑](./docs/archive_path.md#精華區路徑)  
+[主選單頁面](./docs/main_menu_page.md#主選單頁面)  
+[帳號選項](./docs/account_options.md#帳號選項)  
+[發表文章](./docs/post_article.md#發表文章)  
+[回覆文章](./docs/reply_article.md#回覆文章)  
+[編輯簽名檔](./docs/edit_signature.md#編輯簽名檔)  
+[編輯文章](./docs/edit_article.md#編輯文章)  
+[從暫存檔恢復](./docs/revert.md#從暫存檔恢復)  
 
 # 問與答
 [簡介](#簡介)  
@@ -86,149 +86,6 @@
 [封鎖樣式](#封鎖樣式)  
 [點擊狀態列不會回到頂部](#點擊狀態列不會回到頂部)  
   
-
-
-
-## 精華區列表
-
-![Image of Archive Page](./v1/images/archive_page.png) 
-
-1. ### 精華項目
-點擊進入目錄或文章，由於手機版實作限制，  
-在進入之前無法得知此路徑是否有下一層目錄或文章，  
-因此每次點擊都會嘗試讀取目錄或文章，  
-並顯示對應的介面。  
-長按顯示選項
-
-2. ### 標題
-精華項目標題
-
-3. ### 收錄日期/收錄者
-精華文章或目錄被收錄的日期以及收錄者，  
-因此列表上顯示的帳號大多時候不等於發文者帳號
-
-4. ### 項目類型與序號
-精華區項目類型與項目序號，  
-由於類型有例外情況，  
-無法以此判斷是否為目錄或文章，  
-請僅當作參考即可  
-  
-[返回頁首](#操作手冊) 
-
-## 精華區選項
-
-![Image of Archive Options](./v1/images/archive_options.png) 
-
-1. ### 轉寄文章
-將精華區文章轉寄至信箱，  
-若為目錄則無法轉寄  
-  
-[返回頁首](#操作手冊) 
-
-## 精華區路徑
-
-![Image of Archive Path](./v1/images/archive_path.png) 
-
-1. ### 輸入路徑
-輸入目錄路徑或文章路徑，  
-可快速進入指定目錄或文章
-
-2. ### 取消
-關閉路徑功能
-
-3. ### 進入
-點擊後進入指定路徑  
-  
-[返回頁首](#操作手冊) 
-
-## 主選單頁面
-
-![Image of Main Menu Path](./v1/images/main_menu_page.png) 
-
-1. ### 連線位址
-目前的連線位址
-
-2. ### 帳號列表
-PiTT 紀錄的所有帳號，目前登入中的帳號將顯示為突顯顏色，  
-點擊可顯示帳號選項
-
-3. ### 分頁項目
-目前啟用的所有分頁，點擊可快速導向該分頁
-
-4. ### 手冊
-點擊後開啟操作手冊
-
-5. ### 設定
-點擊後開啟設定
-
-6. ### 關於
-點擊後開啟關於頁面
-
-7. ### 登出
-點擊後登出目前帳號，可登入其他分身帳號、重新登入或是關閉 App  
-  
-[返回頁首](#操作手冊) 
-
-## 帳號選項
-
-![Image of Account Options](./v1/images/account_options.png) 
-
-1. ### 以此帳號重新連線
-點擊後可重新連線，若遇到問題，可使用此功能簡單排除
-
-2. ### 查詢帳號資訊
-點擊後將顯示帳號資訊頁
-
-3. ### 設為主帳號
-主帳號將在 App 啟動時自動登入，若已設為主帳號，將顯示為取消主帳號功能
-
-4. ### 刪除帳號
-將刪除紀錄的帳號、密碼、閱讀紀錄並停止此帳號相關的所有推播通知  
-  
-[返回頁首](#操作手冊) 
-
-## 發表文章
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pgqsc3yfZIk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>  
-  
-[返回頁首](#操作手冊) 
-
-## 回覆文章
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7-72P-vAjPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-  
-[返回頁首](#操作手冊) 
-
-## 編輯簽名檔
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F-ZFCgcboe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-    
-[返回頁首](#操作手冊) 
-
-## 編輯文章
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGUdDIv9Lqg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-      
-[返回頁首](#操作手冊) 
-
-## 從暫存檔恢復
-
-<div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OAW2u5i_h2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-        
-[返回頁首](#操作手冊) 
-
-----
-
 ## 簡介
 
 PTT 為 BBS 站台，原始連線方式需使用個人電腦的終端機才能連線，  
