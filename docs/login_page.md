@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## 登入畫面
 
 ![Image of Login Page](../v1/images/login_page.png)
