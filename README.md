@@ -165,13 +165,13 @@ WebSocket 有加密傳輸與明碼傳輸，PiTT 使用的是加密傳輸，速�
 如果設為預設連線而站方停止測試，  
 那還不知道有連線方式可以調整的鄉民就會覺得 PiTT 壞掉了  
 
-**電腦版 SSH 連線緩慢情形**
+電腦版 SSH 連線緩慢情形
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lhxv-8UnKew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-**手機版 WebSocket 正常f連線情形**
+手機版 WebSocket 正常連線情形
 
 <div align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdeTuOhO60o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
