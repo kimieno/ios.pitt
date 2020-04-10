@@ -1,5 +1,7 @@
 ## 使用者資訊
 
+追隨功能可在鄉民發文後收到通知，水球聊天介面也可以藉由點擊下方的聊天按鈕進入
+
 ![Image of User Info](../v1/images/user_info.png)   
 
 1. ### ID暱稱
