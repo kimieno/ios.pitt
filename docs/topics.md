@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 話題功能
 
 ![Image of Topics](../v1/images/topics.png)  

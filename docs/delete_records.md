@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 刪除閱讀紀錄
 
 ![Image of Delete Records_Page](../v1/images/delete_records.png)   

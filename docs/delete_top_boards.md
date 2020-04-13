@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 刪除最近造訪
 
 ![Image of Delete Top Boards](../v1/images/delete_top_boards.png)  

@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 預覽項目選項
 
 ![Image of Preview Options](../v1/images/preview_options.png) 

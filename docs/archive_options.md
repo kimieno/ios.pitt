@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 精華區選項
 
 ![Image of Archive Options](../v1/images/archive_options.png) 

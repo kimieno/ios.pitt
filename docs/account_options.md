@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 帳號選項
 
 ![Image of Account Options](../v1/images/account_options.png) 

@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 預覽項目
 
 ![Image of Preview Item](../v1/images/preview_item.png) 

@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 最近造訪選項
 
 ![Image of Top Board Options](../v1/images/top_board_options.png)  

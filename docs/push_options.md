@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 推文選項
 
 ![Image of Push Options](../v1/images/push_options.png) 

@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 信件選項
 
 ![Image of Mail Options](../v1/images/mail_options.png)  

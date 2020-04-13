@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 搜尋文章分頁
 
 ![Image of Search Article Page](../v1/images/search_article_page.png) 

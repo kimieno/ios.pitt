@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 編輯關注看板
 
 ![Image of Subs Boards_Page](../v1/images/subs_boards.png) 

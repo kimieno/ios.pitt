@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 名冊選項
 
 ![Image of Ptter_Options Page](../v1/images/ptter_options.png) 

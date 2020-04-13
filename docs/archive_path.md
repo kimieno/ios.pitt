@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 精華區路徑
 
 ![Image of Archive Path](../v1/images/archive_path.png) 

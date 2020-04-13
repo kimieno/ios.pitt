@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 最近造訪排序
 
 ![Image of Top Boards Sorting](../v1/images/top_boards_sorting.png)  

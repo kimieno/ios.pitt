@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 關注話題設定
 
 ![Image of Subscribed Topic_Settings_Page](../v1/images/subs_settings.png) 

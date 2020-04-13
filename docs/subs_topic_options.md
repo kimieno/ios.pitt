@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 關注話題選項
 
 ![Image of Subscribed Topic_Options_Page](../v1/images/subs_options.png) 

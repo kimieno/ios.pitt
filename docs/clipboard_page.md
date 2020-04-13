@@ -1,4 +1,4 @@
-#####o
+##### o
 ## 剪貼簿
 
 ![Image of Clipboard Page](../v1/images/clipboard_page.png) 
