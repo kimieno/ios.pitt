@@ -1,3 +1,4 @@
+#####o
 ## 連線畫面
 
 ![Image of Connecting Page](../v1/images/connecting_page.png)

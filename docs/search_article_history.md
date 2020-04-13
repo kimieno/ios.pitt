@@ -1,3 +1,4 @@
+#####o
 ## 刪除搜尋文章紀錄
 
 ![Image of Delete_Search Article History](../v1/images/delete_search_article_history.png) 

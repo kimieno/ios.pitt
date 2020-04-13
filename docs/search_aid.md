@@ -1,3 +1,4 @@
+#####o
 ## 搜尋文章代碼
 
 ![Image of Search AID](../v1/images/search_aid.png) 

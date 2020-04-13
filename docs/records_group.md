@@ -1,3 +1,4 @@
+#####o
 ## 閱讀紀錄顯示方式
 
 ![Image of Records_Group_Page](../v1/images/records_group.png)   

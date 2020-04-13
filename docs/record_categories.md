@@ -1,3 +1,4 @@
+#####o
 ## 閱讀紀錄分類
 
 ![Image of Records_Categories_Page](../v1/images/records_categories.png)   

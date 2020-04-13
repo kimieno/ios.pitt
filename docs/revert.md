@@ -1,3 +1,4 @@
+#####o
 ## 從暫存檔恢復
 
 <div align="center">

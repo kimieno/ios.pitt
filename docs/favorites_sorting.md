@@ -1,3 +1,4 @@
+#####o
 ## 最愛看板排序
 
 ![Image of Favorite_Sorting Page 1](../v1/images/favorite_sorting_1.png)  

@@ -1,3 +1,4 @@
+#####o
 ## 搜尋看板
 
 ![Image of Search Board Page](../v1/images/search_board_page.png) 

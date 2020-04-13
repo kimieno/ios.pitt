@@ -1,3 +1,4 @@
+#####o
 ## 閱讀紀錄
 
 ![Image of Records_Page](../v1/images/records_page.png) 

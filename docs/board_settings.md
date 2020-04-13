@@ -1,3 +1,4 @@
+#####o
 ## 看板設定
 
 ![Image of Board Settings](../v1/images/board_settings.png)   

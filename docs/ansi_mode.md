@@ -1,3 +1,4 @@
+#####o
 ## 文章內容瀏覽模式
 
 ![Image of ANSI Mode Page](../v1/images/ansi_mode.png) 

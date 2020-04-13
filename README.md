@@ -2,89 +2,92 @@
 <div align="center">或是<a href="https://testflight.apple.com/join/TDrhSSs0" target="_blank">加入測試計畫</a></div>
 
 # 操作手冊
-[登入畫面](./docs/login_page.md#登入畫面)  
-[連線畫面](./docs/connecting_page.md#連線畫面)  
-[主畫面](./docs/page_view.md#主畫面)  
-[工具列](./docs/toolbar.md#工具列)  
-[看板列表](./docs/boards_page.md#看板列表)  
-[看板選項](./docs/board_options.md#看板選項)  
-[最愛看板排序](./docs/favorites_sorting.md#最愛看板排序)  
-[信件列表](./docs/mails_page.md#信件列表)  
-[信件選項](./docs/mail_options.md#信件選項)  
-[話題功能](./docs/topics.md#話題功能)  
-[話題列表](docs/topics_page.md#話題列表)  
-[延燒話題選項](./docs/topic_options.md#延燒話題選項)  
-[延燒話題設定](./docs/topic_settings.md#延燒話題設定)  
-[編輯隱藏看板](./docs/hidden_boards.md#編輯隱藏看板)  
-[關注話題選項](./docs/subs_topic_options.md#關注話題選項)  
-[關注話題設定](./docs/subs_topic_settings.md#關注話題設定)  
-[編輯關注看板](./docs/subs_boards.md#編輯關注看板)  
-[閱讀紀錄](./docs/records_page.md#閱讀紀錄)  
-[閱讀紀錄分類](./docs/record_categories.md#閱讀紀錄分類)  
-[閱讀紀錄顯示方式](./docs/records_group.md#閱讀紀錄顯示方式)  
-[刪除閱讀紀錄](./docs/delete_records.md#刪除閱讀紀錄)  
-[最近造訪](./docs/top_boards.md#最近造訪)  
-[最近造訪選項](./docs/top_board_options.md#最近造訪選項)  
-[刪除最近造訪](./docs/delete_top_boards.md#刪除最近造訪)  
-[最近造訪排序](./docs/top_boards_sorting.md#最近造訪排序)  
-[分類看板](./docs/category_page.md#分類看板)  
-[鄉民名冊](./docs/ptter_page.md#鄉民名冊)  
-[名冊選項](./docs/ptter_options.md#名冊選項)  
-[水球聊天](./docs/water_polo.md#水球聊天)  
-[文章列表](./docs/articles_page.md#文章列表)  
-[文章列表選項](./docs/article_options.md#文章列表選項)  
-[搜尋文章分頁](./docs/search_article_page.md#搜尋文章分頁)  
-[搜尋文章](./docs/search_articles.md#搜尋文章)  
-[搜尋文章代碼](./docs/search_aid.md#搜尋文章代碼)  
-[刪除搜尋文章紀錄](./docs/search_article_history.md#刪除搜尋文章紀錄)  
-[文章資訊](./docs/article_info.md#文章資訊)  
-[轉錄](./docs/forward_to_board.md#轉錄)  
-[看板設定](./docs/board_settings.md#看板設定)  
-[轉寄](./docs/forward_to_mail.md#轉寄)  
-[驗證碼](./docs/captcha.md#驗證碼)  
-[使用者資訊](./docs/user_info.md#使用者資訊)  
-[縮網址](./docs/url_shortener.md#縮網址功能)  
-[搜尋看板](./docs/search_boards_page.md#搜尋看板)  
-[文章內容](./docs/article_content_page.md#文章內容)  
-[文章內容功能](./docs/article_content_function.md#文章內容功能)  
-[推文項目](./docs/push_item.md#推文項目)  
-[推文選項](./docs/push_options.md#推文選項)  
-[預覽項目](./docs/preview_item.md#預覽項目)  
-[預覽項目選項](./docs/preview_options.md#預覽項目選項)  
-[網址項目](./docs/link_item.md#網址項目)  
-[網址項目選項](./docs/link_options.md#網址項目選項)  
-[文章代碼項目](./docs/aid_link_item.md#文章代碼項目)  
-[剪貼簿](./docs/clipboard_page.md#剪貼簿)  
-[文章內容瀏覽模式](./docs/ansi_mode.md#文章內容瀏覽模式)  
-[推文頁面](./docs/push_page.md#推文頁面)  
-[大圖瀏覽](./docs/image_browser.md#大圖瀏覽)  
-[精華區列表](./docs/archive_page.md#精華區列表)  
-[精華區選項](./docs/archive_options.md#精華區選項)  
-[精華區路徑](./docs/archive_path.md#精華區路徑)  
-[主選單頁面](./docs/main_menu_page.md#主選單頁面)  
-[帳號選項](./docs/account_options.md#帳號選項)  
-[發表文章](./docs/post_article.md#發表文章)  
-[回覆文章](./docs/reply_article.md#回覆文章)  
-[編輯簽名檔](./docs/edit_signature.md#編輯簽名檔)  
-[編輯文章](./docs/edit_article.md#編輯文章)  
-[從暫存檔恢復](./docs/revert.md#從暫存檔恢復)  
+[登入畫面](./docs/login_page.md#o)  
+[連線畫面](./docs/connecting_page.md#o)  
+[主畫面](./docs/page_view.md#o)  
+[工具列](./docs/toolbar.md#o)  
+[看板列表](./docs/boards_page.md#o)  
+[看板選項](./docs/board_options.md#o)  
+[最愛看板排序](./docs/favorites_sorting.md#o)  
+[信件列表](./docs/mails_page.md#o)  
+[信件選項](./docs/mail_options.md#o)  
+[話題功能](./docs/topics.md#o)  
+[話題列表](docs/topics_page.md#o)  
+[最新消息類型](./docs/new_topic_type.md#o)  
+[延燒話題選項](./docs/topic_options.md#o)  
+[延燒話題設定](./docs/topic_settings.md#o)  
+[編輯隱藏看板](./docs/hidden_boards.md#o)  
+[關注話題選項](./docs/subs_topic_options.md#o)  
+[關注話題設定](./docs/subs_topic_settings.md#o)  
+[編輯關注看板](./docs/subs_boards.md#o)  
+[閱讀紀錄](./docs/records_page.md#o)  
+[閱讀紀錄分類](./docs/record_categories.md#o)  
+[閱讀紀錄顯示方式](./docs/records_group.md#o)  
+[刪除閱讀紀錄](./docs/delete_records.md#o)  
+[最近造訪](./docs/top_boards.md#o)  
+[最近造訪選項](./docs/top_board_options.md#o)  
+[刪除最近造訪](./docs/delete_top_boards.md#o)  
+[最近造訪排序](./docs/top_boards_sorting.md#o)  
+[分類看板](./docs/category_page.md#o)  
+[鄉民名冊](./docs/ptter_page.md#o)  
+[名冊選項](./docs/ptter_options.md#o)  
+[水球聊天](./docs/water_polo.md#o)  
+[文章列表](./docs/articles_page.md#o)  
+[文章列表選項](./docs/article_options.md#o)  
+[搜尋文章分頁](./docs/search_article_page.md#o)  
+[搜尋文章](./docs/search_articles.md#o)  
+[搜尋文章代碼](./docs/search_aid.md#o)  
+[刪除搜尋文章紀錄](./docs/search_article_history.md#o)  
+[文章資訊](./docs/article_info.md#o)  
+[轉錄](./docs/forward_to_board.md#o)  
+[看板設定](./docs/board_settings.md#o)  
+[轉寄](./docs/forward_to_mail.md#o)  
+[驗證碼](./docs/captcha.md#o)  
+[使用者資訊](./docs/user_info.md#o)  
+[縮網址](./docs/url_shortener.md#o)  
+[搜尋看板](./docs/search_boards_page.md#o)  
+[文章內容](./docs/article_content_page.md#o)  
+[文章內容功能](./docs/article_content_function.md#o)  
+[推文項目](./docs/push_item.md#o)  
+[推文選項](./docs/push_options.md#o)  
+[預覽項目](./docs/preview_item.md#o)  
+[預覽項目選項](./docs/preview_options.md#o)  
+[網址項目](./docs/link_item.md#o)  
+[網址項目選項](./docs/link_options.md#o)  
+[文章代碼項目](./docs/aid_link_item.md#o)  
+[剪貼簿](./docs/clipboard_page.md#o)  
+[文章內容瀏覽模式](./docs/ansi_mode.md#o)  
+[推文頁面](./docs/push_page.md#o)  
+[大圖瀏覽](./docs/image_browser.md#o)  
+[精華區列表](./docs/archive_page.md#o)  
+[精華區選項](./docs/archive_options.md#o)  
+[精華區路徑](./docs/archive_path.md#o)  
+[主選單頁面](./docs/main_menu_page.md#o)  
+[帳號選項](./docs/account_options.md#o)  
+[發表文章](./docs/post_article.md#o)  
+[回覆文章](./docs/reply_article.md#o)  
+[編輯簽名檔](./docs/edit_signature.md#o)  
+[編輯文章](./docs/edit_article.md#o)  
+[從暫存檔恢復](./docs/revert.md#o)  
 
 # 問與答
-[簡介](#簡介)  
-[連線方式](#連線方式)  
-[無法登入](#無法登入)  
-[連線緩慢](#連線緩慢)  
-[樓層數消失](#樓層數消失)  
-[點擊文章與進入文章不符](#點擊文章與進入文章不符)  
-[回覆推文](#回覆推文)  
-[發文或推文出現亂碼](#發文或推文出現亂碼)  
-[實名發布](#實名發布)  
-[信件通知](#信件通知)  
-[無法開啟測試版本](#無法開啟測試版本)  
-[封鎖樣式](#封鎖樣式)  
-[點擊狀態列不會回到頂部](#點擊狀態列不會回到頂部)  
+[簡介](#1)  
+[連線方式](#2)  
+[無法登入](#3)  
+[連線緩慢](#4)  
+[樓層數消失](#5)  
+[點擊文章與進入文章不符](#6)  
+[回覆推文](#7)  
+[發文或推文出現亂碼](#8)  
+[實名發布](#9)  
+[信件通知](#10)  
+[無法開啟測試版本](#11)  
+[封鎖樣式](#12)  
+[點擊狀態列不會回到頂部](#13)  
   
-## 簡介
+  
+#####1
+### 簡介
 
 PTT 為 BBS 站台，原始連線方式需使用個人電腦的終端機才能連線，  
 後來出現了 PCMAN 等更加方便的電腦版客戶端，  
@@ -95,7 +98,8 @@ PiTT 為第三方手機版瀏覽器，由於現今社會大眾傾向於使用手
   
 [返回頁首](#問與答) 
 
-## 連線方式
+#####2
+### 連線方式
 
 PTT 的連線方式有很多種
 
@@ -112,7 +116,8 @@ WebSocket 有加密傳輸與明碼傳輸，PiTT 使用的是加密傳輸，速�
   
 [返回頁首](#問與答) 
 
-## 無法登入
+#####3
+### 無法登入
 
 1. 重複登入帳號數量過多(3個)，若出現刪除重複登入提示請選擇刪除
 2. 請到設定 - 連線 開啟僅使用 ptt.cc 位址連線(若有在中國使用請關閉) 
@@ -125,7 +130,8 @@ WebSocket 有加密傳輸與明碼傳輸，PiTT 使用的是加密傳輸，速�
   
 [返回頁首](#問與答) 
 
-## 連線緩慢
+#####4
+### 連線緩慢
 
 #### 給懶得看的人的快速結論就是到設定內改為使用WebSocket連線
 #### 測試最高紀錄為一秒內登入完成
@@ -195,7 +201,8 @@ PTT 允許的重複登入連線只有三個，
   
 [返回頁首](#問與答) 
 
-## 樓層數消失
+#####5
+### 樓層數消失
 
 PTT 本身沒有支援樓層顯示，  
 應用程式內的樓層數與推噓數都是由程式自行計算出來的，  
@@ -209,7 +216,8 @@ Home 則是重新整理後由文章第一頁開始讀取，
   
 [返回頁首](#問與答) 
 
-## 點擊文章與進入文章不符
+#####6
+### 點擊文章與進入文章不符
 
 如果是搜尋推文數狀態下點擊文章的確會出現這個問題喔，  
 因為 PTT 的文章序號不是固定值，  
@@ -223,7 +231,8 @@ Home 則是重新整理後由文章第一頁開始讀取，
   
 [返回頁首](#問與答) 
 
-## 回覆推文
+#####7
+### 回覆推文
 
 PTT 本身沒有回覆推文功能，  
 一般都是使用編輯文章功能自行在推文下方輸入回覆文字，  
@@ -237,7 +246,8 @@ PTT 本身沒有回覆推文功能，
   
 [返回頁首](#問與答)  
 
-## 發文或推文出現亂碼
+#####8
+### 發文或推文出現亂碼
 
 發文、推文出現亂碼！！！  
 
@@ -277,7 +287,8 @@ PCMAN 使用者可以在推文時試者貼上 "哈會哈" 與 "哈㑹哈" 看看
   
 [返回頁首](#問與答) 
 
-## 實名發布
+#####9
+### 實名發布
 
 實名發布為沿用PTT的名詞，  
 這裡的「實名」是指是否要在發文時顯示ID，  
@@ -289,7 +300,8 @@ PCMAN 使用者可以在推文時試者貼上 "哈會哈" 與 "哈㑹哈" 看看
 
 [返回頁首](#問與答) 
 
-## 信件通知
+#####10
+### 信件通知
 
 #### 請開啟 App 通知權限
 
@@ -318,7 +330,8 @@ PiTT 有另外加入「即時信件通知」功能，
   
 [返回頁首](#問與答) 
 
-## 無法開啟測試版本
+#####11
+### 無法開啟測試版本
 
 iOS Beta (TestFlight)的每一個版本都只有90天的使用期限(自上傳送審日起算)，  
 因此請盡量維持最新版本，  
@@ -327,7 +340,8 @@ iOS Beta (TestFlight)的每一個版本都只有90天的使用期限(自上傳�
 
 [返回頁首](#問與答) 
 
-## 封鎖樣式
+#####12
+### 封鎖樣式
 
 不完全隱藏黑名單是為了避免 App 刻意隱藏某些特定資訊的疑慮，   
 若有顯示隱藏哪些項目，可以讓使用者更安心，   
@@ -341,7 +355,8 @@ iOS Beta (TestFlight)的每一個版本都只有90天的使用期限(自上傳�
 
 [返回頁首](#問與答) 
 
-## 點擊狀態列不會回到頂部
+#####13
+### 點擊狀態列不會回到頂部
 
 iOS 點擊狀態列的功能實際上為「回到第一列」的功能，  
 但因為 iOS 的元件本身沒有支援反向瀏覽，  

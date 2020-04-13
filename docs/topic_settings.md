@@ -1,3 +1,4 @@
+#####o
 ## 延燒話題設定
 
 ![Image of Topic Settings Options](../v1/images/topic_settings.png) 
