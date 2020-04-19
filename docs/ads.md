@@ -10,20 +10,19 @@ PiTT 有加入了以下幾種廣告設定
 ![Image of Account Options](../v1/images/ad_settings.png) 
 
 
-1. ### 關閉僅顯示原生橫幅廣告
+### 關閉僅顯示原生橫幅廣告
 
 將在列表不同位置插入原生廣告，可隨捲動移動，有卡片與橫幅兩種
 外框顏色可以在調色盤設定  
 
 ![Image of Account Options](../v1/images/ad_native_card.png) 
 
-2. ### 開啟僅顯示原生橫幅廣告
+### 開啟僅顯示原生橫幅廣告
 
 將在列表不同位置插入原生廣告，只有橫幅一種
 外框顏色可以在調色盤設定  
 
-#### 未來可能因為廣告聯播網政策與條款改變而取消此功能  
-#### 例如將大型圖片規定為必須顯示的項目  
+#### 未來可能因為廣告聯播網政策與條款改變而取消此功能，例如將大型圖片規定為必須顯示的項目  
 
 ![Image of Account Options](../v1/images/ad_native_banner.png) 
 
