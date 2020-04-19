@@ -64,6 +64,7 @@
 [精華區路徑](./docs/archive_path.md#o)  
 [主選單頁面](./docs/main_menu_page.md#o)  
 [帳號選項](./docs/account_options.md#o)  
+[廣告設定](./docs/ads.md#o)  
 [發表文章](./docs/post_article.md#o)  
 [回覆文章](./docs/reply_article.md#o)  
 [編輯簽名檔](./docs/edit_signature.md#o)  
