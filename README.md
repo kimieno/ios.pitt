@@ -85,7 +85,13 @@
 [無法開啟測試版本](#11)  
 [封鎖樣式](#12)  
 [點擊狀態列不會回到頂部](#13)  
-[訂閱無廣告極致體驗依舊出現廣告](#14)  
+[訂閱無廣告極致體驗依舊出現廣告](#14)    
+
+# 條款與政策
+[PiTT使用條款](./docs/terms_and_policy.md#o)  
+[PiTT隱私權政策](./docs/privacy_policy.md#o)  
+[PiTT贊助合約與條款](./docs/subscription_terms_and_conditions.md#o)  
+[PTT使用條款](https://www.ptt.cc/index.ua.html)  
   
   
 ##### 1
