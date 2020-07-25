@@ -410,7 +410,7 @@ PiTT 使用反序列表或文章內容的 End 功能後都是從下方開始載�
 
 接下來針對原始碼的部分做說明：
 
-func textView(_ textView: UITextView, shouldChangeTextIn range: NSRange, replacementText text: String) -> Bool
+`func textView(_ textView: UITextView, shouldChangeTextIn range: NSRange, replacementText text: String) -> Bool`
 
 這個 method 是 iOS 的文字編輯元件的 delegate，
 在文字編輯器的文字需要進行異動前會進行呼叫，
@@ -419,7 +419,7 @@ func textView(_ textView: UITextView, shouldChangeTextIn range: NSRange, replace
 * range - 文字編輯範圍
 * text - 新增的文字
 
-else if text == UIPasteboard.general.string
+`else if text == UIPasteboard.general.string`
 
 此段程式碼以白話來說明就是「當 text 等於剪貼簿內的文字時進入此判斷式」，
 這裡的用意在於比對剪貼簿內的文字是否為目前新增的文字，
@@ -428,7 +428,7 @@ else if text == UIPasteboard.general.string
 所以要在此進行預先處理，避免有造成 PTT 顯示為亂碼的字元出現在編輯器裡面，
 並在之後進行上色處理，
 
-applyTextColor(textView, content: newText, range: range)
+`applyTextColor(textView, content: newText, range: range)`
 
 若使用者有使用文字背景顏色時，
 貼上內容的換行符號會造成後方空白一併被上背景色，
