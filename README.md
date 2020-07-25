@@ -86,6 +86,7 @@
 [封鎖樣式](#12)  
 [點擊狀態列不會回到頂部](#13)  
 [訂閱無廣告極致體驗依舊出現廣告](#14)  
+[iOS14編輯文章時出現剪貼簿存取通知](#15)  
 
 # 條款與政策
 [PiTT使用條款](./docs/terms_and_policy.md#o)  
@@ -392,5 +393,48 @@ PiTT 使用反序列表或文章內容的 End 功能後都是從下方開始載�
 8. 以上動作皆無法恢復，請進行退款  
 
 另外有收到一個例外情況，使用者回報在 Apple 開發票前都無法正確進行收據驗證。  
+
+##### 15
+### iOS14編輯文章時出現剪貼簿存取通知
+
+最近收到鄉民提醒在更新至 iOS 14 後編輯文章時出現了存取剪貼簿的通知，
+在此說明 PiTT 存取剪貼簿的用途與原始碼。
+
+![Image of Editor Source Code](../v1/images/editor_source_code.png) 
+
+首先說明介面上的元件：
+
+畫面最上方為搜尋框，右方的「1 result」代表目前的檔案裡面只有一個符合的結果，
+而符合的結果就顯示在下方以綠色方格框起來的文字，
+證明 PiTT 編輯文章的相關程式碼只有這裡會存取剪貼簿。
+
+接下來針對原始碼的部分做說明：
+
+func textView(_ textView: UITextView, shouldChangeTextIn range: NSRange, replacementText text: String) -> Bool
+
+這個 method 是 iOS 的文字編輯元件的 delegate，
+在文字編輯器的文字需要進行異動前會進行呼叫，
+文字上色功能就是在此進行處理的。
+* textView - 文字編輯元件
+* range - 文字編輯範圍
+* text - 新增的文字
+
+else if text == UIPasteboard.general.string
+
+此段程式碼以白話來說明就是「當 text 等於剪貼簿內的文字時進入此判斷式」，
+這裡的用意在於比對剪貼簿內的文字是否為目前新增的文字，
+由於貼上來源可能是網址或其他 app，
+而 PTT 能夠支援的文字編碼是有限的，
+所以要在此進行預先處理，避免有造成 PTT 顯示為亂碼的字元出現在編輯器裡面，
+並在之後進行上色處理，
+
+applyTextColor(textView, content: newText, range: range)
+
+若使用者有使用文字背景顏色時，
+貼上內容的換行符號會造成後方空白一併被上背景色，
+所以在 applyTextColor 這個 method 裡面也會做進一步的上色處理。
+也就是說 PiTT 其實並未取得剪貼簿內的文字並將它儲存起來，
+至始至終都是處理使用者輸入的文字，
+請各位安心使用。  
 
 [返回頁首](#問與答) 
