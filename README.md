@@ -400,7 +400,7 @@ PiTT 使用反序列表或文章內容的 End 功能後都是從下方開始載�
 最近收到鄉民提醒在更新至 iOS 14 後編輯文章時出現了存取剪貼簿的通知，
 在此說明 PiTT 存取剪貼簿的用途與原始碼。
 
-![Image of Editor Source Code](../v1/images/editor_source_code.png) 
+![Image of Editor Source Code](./v1/images/editor_source_code.png) 
 
 首先說明介面上的元件：
 
