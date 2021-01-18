@@ -87,6 +87,7 @@
 [點擊狀態列不會回到頂部](#13)  
 [訂閱無廣告極致體驗依舊出現廣告](#14)  
 [iOS14編輯文章時出現剪貼簿存取通知](#15)  
+[Imgur圖片讀取速度](#16)  
 
 # 條款與政策
 [PiTT使用條款](./docs/terms_and_policy.md#o)  
@@ -436,5 +437,37 @@ PiTT 使用反序列表或文章內容的 End 功能後都是從下方開始載�
 也就是說 PiTT 其實並未取得剪貼簿內的文字並將它儲存起來，
 至始至終都是處理使用者輸入的文字，
 請各位安心使用。  
+
+##### 16
+### Imgur圖片讀取速度
+
+Imgur 會將流量較大的外連圖片下載做限速，雖然沒有官方公告，但遇到限速時更換連線 IP 或是更換連線方式(Wi-Fi, 行動網路)可以大幅提升速度，
+因此推論 Imgur 有限速的做法。
+
+很多人會提到在 App 內下載很慢，點擊連結很快，原因是 App 內使用的是#####原圖網址，
+點擊網址後會以行動版網頁開啟，此時網頁讀取的是#####縮圖網址。
+
+發現有此分流做法後，PiTT 也在去年的七月底加入了縮圖預覽功能，不過還是有很多人不知道有此功能，
+於是在 3.1.0 版將此按鈕獨立出來放在心情按鈕旁邊。
+
+另外也一併支援了 Imgur 的相冊與畫廊網址預覽，並利用相同介面實作了以相冊瀏覽所有預覽圖的功能。
+以下為完整的圖片讀取速度疑難排解。
+
+* 更換網路連線 IP、連線方式 - 前者若使用 Wi-Fi 需重啟路由器（只有浮動 IP 適用）。
+* 開啟縮圖品質
+
+![Image of Editor Source Code](./v1/images/imgur_fidelity_feature1.png) 
+![Image of Editor Source Code](./v1/images/imgur_fidelity_feature2.png) 
+
+* 使用相冊瀏覽 - 相冊瀏覽將以最低品質下載預覽圖，在動圖較多的情況下可以避免自動下載完整檔案。
+
+![Image of Editor Source Code](./v1/images/imgur_album1.png) 
+![Image of Editor Source Code](./v1/images/imgur_album2.png) 
+
+* 使用嘗試影片播放觀看 GIF 動圖。
+
+![Image of Editor Source Code](./v1/images/imgur_play_as_video.png) 
+
+以上功能僅適用 Imgur 圖片連結。
 
 [返回頁首](#問與答) 
