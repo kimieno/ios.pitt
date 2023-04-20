@@ -69,8 +69,8 @@
 [回覆文章](./docs/reply_article.md#o)  
 [編輯簽名檔](./docs/edit_signature.md#o)  
 [編輯文章](./docs/edit_article.md#o)   
-[圖片編輯](./docs/photo_editor.md#o)  
 [從暫存檔恢復](./docs/revert.md#o)  
+[圖片編輯](./docs/photo_editor.md#o)
 
 # 問與答
 [簡介](#1)  
